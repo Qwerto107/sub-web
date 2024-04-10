@@ -255,6 +255,9 @@ export default {
                 label: "ACL4SSR_Online_Full_MultiMode.ini 全分组 多模式 重度用户使用(与Github同步)",
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
             }, {
+                label: "ACL4SSR_Online_Full_MultiMode_Z.ini 自定义全分组 多模式 重度用户使用(与Github同步)",
+                value: "https://raw.githubusercontent.com/Qwerto107/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode_Z.ini"
+            }, {
                 label: "ACL4SSR_Online_Full_NoAuto.ini 全分组 无自动测速 重度用户使用(与Github同步)",
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
             }, {
